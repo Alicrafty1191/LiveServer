@@ -1,0 +1,8 @@
+{
+    "FRAMES_FOLDER_PATH": "./frames",
+    "FRAME_TIMEOUT": 0.2,
+    "IP_ADDRESS": "127.0.0.1",
+    "PORT": 777,
+    "COLORFUL": true,
+    "FRAMES": 9
+}
